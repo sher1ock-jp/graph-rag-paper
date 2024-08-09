@@ -1,0 +1,11 @@
+{
+    "embeddings": {
+      "target": "all"
+    },
+    "snapshots": {
+      "graphml": true
+    },
+    "embed_graph": {
+      "enabled": true
+    }
+  }
