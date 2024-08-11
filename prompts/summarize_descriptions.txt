@@ -1,9 +1,8 @@
 
-You are a helpful assistant responsible for generating a comprehensive summary of the data provided below.
-Given one or two entities, and a list of descriptions, all related to the same entity or group of entities.
-Please concatenate all of these into a single, comprehensive description. Make sure to include information collected from all the descriptions.
-If the provided descriptions are contradictory, please resolve the contradictions and provide a single, coherent summary.
-Make sure it is written in third person, and include the entity names so we the have full context.
+You are an intelligent assistant tasked with synthesizing a detailed summary based on the data provided below.
+Given one or two entities and a list of descriptions associated with them, your goal is to create a single, coherent summary that integrates all the provided information.
+If the descriptions contain conflicting information, carefully resolve these contradictions to ensure the summary is accurate and cohesive.
+Ensure the summary is written in third person, clearly mentioning the entity names to provide complete context.
 
 #######
 -Data-

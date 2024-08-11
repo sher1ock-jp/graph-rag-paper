@@ -1,0 +1,448 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;AXIOMS OF PHENOMENAL EXISTENCE&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"The axioms of phenomenal existence outline essential properties of experience, such as unity, definiteness, and intrinsicity, which are crucial for understanding the nature of consciousness."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;REALISM&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"Realism is the assumption that a world exists independently of one's experience, a foundational concept for explaining the regularities of experience through the existence of a physical world."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;PHYSICALISM&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"Physicalism posits that for something to have physical existence, it must have the power to affect and be affected in a reliable way, emphasizing the operational and causal aspects of physical entities."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;OPERATIONAL REDUCTIONISM&quot;">
+      <data key="d0">"METHODOLOGY"</data>
+      <data key="d1">"Operational reductionism is the approach of establishing what exists in physical terms by starting from the smallest units that can take and make a difference, ensuring nothing is left out."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;SUBSTRATE OF CONSCIOUSNESS&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"The substrate of consciousness is defined by its cause-effect power, characterized operationally as a set of units that can be observed and manipulated to take and make a difference."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;INTRINSICITY&quot;">
+      <data key="d0">"POSTULATE"</data>
+      <data key="d1">"Intrinsicity requires that the cause-effect power of the substrate of consciousness must be intrinsic, making a difference within itself."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;INFORMATION&quot;">
+      <data key="d0">"POSTULATE"</data>
+      <data key="d1">"The postulate of Information states that the cause-effect power of the substrate must be specific, selecting this cause-effect state with maximal intrinsic information."
+"Information, in the context of intrinsic ontology and IIT, is considered as causal, intrinsic, specific, maximally irreducible, and structured, differing from classical accounts of information as merely communication and storage."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13,a3cfbedc24d5316550172975e83f59cb</data>
+    </node>
+    <node id="&quot;INTEGRATION&quot;">
+      <data key="d0">"POSTULATE"</data>
+      <data key="d1">"Integration demands that the cause-effect power of the substrate must be unitary, specifying its cause-effect state as a whole set of units, irreducible to subsets."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;EXCLUSION&quot;">
+      <data key="d0">"POSTULATE"</data>
+      <data key="d1">"Exclusion specifies that the cause-effect power of the substrate must be definite, specifying its cause-effect state as this whole set of units, known as a maximal substrate or complex."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;COMPOSITION&quot;">
+      <data key="d0">"POSTULATE"</data>
+      <data key="d1">"Composition involves the structured cause-effect power of the substrate, where subsets of units specify cause-effect states over subsets of units, forming a cause-effect structure or Phi-structure."</data>
+      <data key="d2">14270b835c0661067dae1c7b7e52ea13</data>
+    </node>
+    <node id="&quot;IIT FORMALISM&quot;">
+      <data key="d0">"METHODOLOGY"</data>
+      <data key="d1">"IIT formalism refers to the methodology applied to analyze simple, simulated networks to illustrate how a hypothetical substrate's cause-effect power can be unfolded."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;CAUSAL MODELS&quot;">
+      <data key="d0">"MODEL"</data>
+      <data key="d1">"Causal models are representations used to understand and predict the effects of various factors on a given system or phenomenon."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;POSTULATES OF IIT&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"The postulates of IIT (Integrated Information Theory) include requirements for a system to have cause-effect power that is intrinsic, specific, integrated, definite, and structured."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;CAUSE-EFFECT POWER&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Cause-effect power is the capacity of a system to both influence and be influenced by internal and external factors, quantified as causal informativeness in IIT."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;INTERVENTIONAL CONDITIONAL PROBABILITIES&quot;">
+      <data key="d0">"METHODOLOGY"</data>
+      <data key="d1">"Interventional conditional probabilities are statistical measures used to quantify the effect of potential causes on the current state of a system."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;INTRINSICALITY POSTULATE&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"The intrinsicality postulate of IIT requires that a system exerts cause-effect power within itself, independent of external conditions."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;INFORMATION POSTULATE&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"The information postulate of IIT demands that a system's cause-effect power be specific, selecting a specific cause-effect state for its units."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;MAXIMAL CAUSE-EFFECT STATE&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"The maximal cause-effect state is the state for which intrinsic information is maximal, representing the specific cause-effect power of a system."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;INTRINSIC INFORMATION&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Intrinsic information measures the difference a system makes over itself for a given cause and effect state, crucial for evaluating a system's cause-effect power."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;IDENTIFYING SUBSTRATES OF CONSCIOUSNESS&quot;">
+      <data key="d0">"EXPERIMENT"</data>
+      <data key="d1">"This process involves applying the postulates of IIT to determine whether a system, such as a network of units, has the cause-effect power indicative of consciousness."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;TRANSITION PROBABILITY MATRIX (TPM)&quot;">
+      <data key="d0">"TOOL"</data>
+      <data key="d1">"The Transition Probability Matrix (TPM) is a tool used to represent the probabilities of a system transitioning from one state to another, essential for analyzing cause-effect power."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;INTEGRATED INFORMATION&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Integrated information quantifies the irreducibility of a system's cause-effect state, indicating how much the system operates 'as one'."</data>
+      <data key="d2">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </node>
+    <node id="&quot;SPECIALIZED LATTICES&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Specialized lattices refer to networks consisting of heterogeneously connected units that exhibit high structure integrated information, capable of forming complex \(\Phi\)-structures."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;\(\PHI\)-STRUCTURES&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"\(\Phi\)-structures are configurations within a network that comprise distinctions with causes and effects congruent with the system's maximal cause-effect state, indicating a high level of system integrated information."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;SYSTEM INTEGRATED INFORMATION (\(\VARPHI_{S}\))&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"System integrated information, denoted as \(\varphi_{s}\), measures the amount of information generated by a system as a whole that is greater than the sum of its parts, reflecting the system's integration and irreducibility."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;CEREBRAL CORTEX&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"The cerebral cortex, especially its posterior regions, is organized as a dense, divergent-convergent hierarchical 3D lattice of specialized units, making it a plausible substrate for human consciousness."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;CONSCIOUSNESS&quot;">
+      <data key="d0">"RESEARCH FIELD"</data>
+      <data key="d1">"Consciousness studies explore the substrates and mechanisms that constitute conscious experience, focusing on how integrated information and neural structures contribute to it."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;MAXIMAL SUBSTRATE&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"A maximal substrate is a system configuration that, excluding all its subsets, achieves the highest value of system integrated information (\(\varphi_{s}\)), indicating a significant level of integration and irreducibility."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;NEAR-MAXIMAL SUBSTRATES&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Near-maximal substrates are system configurations that, while highly integrated, are slightly less irreducible than a subset of their units, indicating a complex but not fully maximized level of integration."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;EXTRINSIC ENTITIES&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Extrinsic entities in the context of integrated information theory refer to units or systems that, from an external perspective, behave as integrated wholes but may not satisfy all intrinsic postulates of existence."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;INTRINSIC PERSPECTIVE&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"The intrinsic perspective of a system or substrate focuses on its internal properties and functionalities, such as maximal irreducibility and the definite nature of experience, as per integrated information theory."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;ACTIVE, INACTIVE, AND INACTIVATED UNITS&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"In the context of neural substrates of consciousness, units (neurons or neural assemblies) can be active, inactive, or inactivated, with each state contributing differently to the system's \(\Phi\)-structure and integrated information."</data>
+      <data key="d2">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </node>
+    <node id="&quot;\(\PHI\)-FOLD&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"A \(\Phi\)-fold represents a complex structure within the neural substrate of consciousness, comprising a large number of distinctions and relations contributed by a subset of units. It signifies the intricate connectivity and functional interplay that underpins conscious experience."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;NEURAL SUBSTRATE OF CONSCIOUSNESS&quot;">
+      <data key="d0">"RESEARCH FIELD"</data>
+      <data key="d1">"The neural substrate of consciousness refers to the specific neural structures and mechanisms within the brain that give rise to consciousness. It encompasses the study of how various neural processes correlate with conscious experience."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;INACTIVE UNIT&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"An inactive unit within a neural or computational system refers to a unit that is not currently active or contributing to the system's output but can still influence the system's state or function."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;INACTIVATED UNIT&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"An inactivated unit is one that has lost its cause-effect power, meaning it no longer has any counterfactual states and cannot contribute to or be intervened upon within the system."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;CONSCIOUSNESS AND FUNCTIONAL EQUIVALENCE&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"This theory posits that the \(\Phi\)-structure of a complex depends on the causal interactions between system subsets rather than the system's interaction with its environment, suggesting that different physical systems with different internal causal structures may perform the same input-output functions."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;DETERMINISTIC SYSTEMS WITH BINARY UNITS&quot;">
+      <data key="d0">"MODEL"</data>
+      <data key="d1">"These systems are simple computational models that receive binary inputs and produce outputs based on internal state transitions. They are used to illustrate the concept of functional equivalence in systems with identical input-output functions but different internal dynamics."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;ELECTRONIC TOLL-BOOTH EXAMPLE&quot;">
+      <data key="d0">"EXPERIMENT"</data>
+      <data key="d1">"An illustrative example used to explain the functional equivalence of different systems. It describes systems that count binary inputs (representing valid coins) and produce an output (opening the gate) after a specific count, despite having different internal dynamics."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;GLOBAL STATE-TRANSITION DIAGRAM&quot;">
+      <data key="d0">"TOOL"</data>
+      <data key="d1">"A diagram that represents the internal dynamics of a system, showing how global states update in response to inputs. It is used to compare the internal mechanisms of systems that are functionally equivalent but have different internal structures."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;CAUSE-EFFECT STRUCTURES&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Cause-effect structures refer to the specific ways in which units within a system interact to produce outcomes. These structures underlie the system's ability to generate integrated information and contribute to its \(\Phi\)-structure."</data>
+      <data key="d2">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;\(\PHI\)-STRUCTURE&quot;">
+      <data key="d0" />
+      <data key="d1">
+"A conceptual model within IIT that represents the structure of integrated information, which is proposed to account for the quality of conscious experiences."</data>
+      <data key="d2">4b031fd746dcfaa41991dd6b26a55fad,9ac96ca7b115a80886c5646b5b705bb0</data>
+    </node>
+    <node id="&quot;CONSCIOUS STATES&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"States such as wakefulness and dreaming, characterized by high levels of integrated information (\(\Phi\)), according to IIT."</data>
+      <data key="d2">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </node>
+    <node id="&quot;UNCONSCIOUS STATES&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"States such as dreamless sleep and anesthesia, characterized by low levels of integrated information (\(\Phi\)), as per IIT."</data>
+      <data key="d2">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </node>
+    <node id="&quot;SPATIAL EXPERIENCES&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Aspects of consciousness related to the perception of space, which IIT attempts to explain through the properties of \(\Phi\)-structures."</data>
+      <data key="d2">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </node>
+    <node id="&quot;2D GRIDS OF UNITS&quot;">
+      <data key="d0">"MODEL"</data>
+      <data key="d1">"A model used in IIT to explain the fundamental properties of spatial experiences, based on the organization of units in two-dimensional grids."</data>
+      <data key="d2">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </node>
+    <node id="&quot;POSTERIOR CORTEX&quot;">
+      <data key="d0">"RESEARCH FIELD"</data>
+      <data key="d1">"A region of the brain implicated by IIT in supporting the experience of space, based on the arrangement of 2D grids of units."</data>
+      <data key="d2">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </node>
+    <node id="&quot;INTEGRATED INFORMATION THEORY (IIT)&quot;">
+      <data key="d0" />
+      <data key="d1">
+"IIT proposes that consciousness arises from the integration of information within a system, characterized by causal powers that are intrinsic, specific, and structured."</data>
+      <data key="d2">4b031fd746dcfaa41991dd6b26a55fad,a3cfbedc24d5316550172975e83f59cb</data>
+    </node>
+    <node id="&quot;INTRINSIC ONTOLOGY&quot;">
+      <data key="d0">"THEORY"</data>
+      <data key="d1">"An intrinsic ontology is grounded in experience as intrinsic existence, aiming to provide an account of subjective existence in objective, operational terms and seeks a unified view of nature."</data>
+      <data key="d2">a3cfbedc24d5316550172975e83f59cb</data>
+    </node>
+    <node id="&quot;CAUSAL POWERS&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Causal powers refer to the capabilities or properties that enable entities to cause effects or bring about changes, as defined by certain postulates in the context of intrinsic ontology."</data>
+      <data key="d2">a3cfbedc24d5316550172975e83f59cb</data>
+    </node>
+    <node id="&quot;ACTUAL CAUSES AND EFFECTS&quot;">
+      <data key="d0">"KNOWLEDGE"</data>
+      <data key="d1">"Actual causes and effects involve the evaluation of what entities or events cause others, based on the application of postulates defining causal powers."</data>
+      <data key="d2">a3cfbedc24d5316550172975e83f59cb</data>
+    </node>
+    <node id="&quot;EMPIRICAL INVESTIGATIONS&quot;">
+      <data key="d0">"METHODOLOGY"</data>
+      <data key="d1">"Empirical investigations refer to the research methods and studies assessing the relationship between the quantity and quality of consciousness and its substrate in the brain."</data>
+      <data key="d2">a3cfbedc24d5316550172975e83f59cb</data>
+    </node>
+    <edge source="&quot;AXIOMS OF PHENOMENAL EXISTENCE&quot;" target="&quot;SUBSTRATE OF CONSCIOUSNESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The axioms of phenomenal existence are conceptually related to the substrate of consciousness as they define the essential properties that the substrate must exhibit."</data>
+      <data key="d5">14270b835c0661067dae1c7b7e52ea13</data>
+    </edge>
+    <edge source="&quot;REALISM&quot;" target="&quot;PHYSICALISM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Realism and physicalism are related as realism's assumption of an independent world is operationalized through physicalism's criteria for physical existence."</data>
+      <data key="d5">14270b835c0661067dae1c7b7e52ea13</data>
+    </edge>
+    <edge source="&quot;PHYSICALISM&quot;" target="&quot;OPERATIONAL REDUCTIONISM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Physicalism's emphasis on causal power leads naturally to the methodology of operational reductionism, focusing on the smallest units of difference-making."</data>
+      <data key="d5">14270b835c0661067dae1c7b7e52ea13</data>
+    </edge>
+    <edge source="&quot;SUBSTRATE OF CONSCIOUSNESS&quot;" target="&quot;INTRINSICITY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The substrate of consciousness's definition as having cause-effect power is directly related to the intrinsicity postulate, which emphasizes internal difference-making."</data>
+      <data key="d5">14270b835c0661067dae1c7b7e52ea13</data>
+    </edge>
+    <edge source="&quot;INFORMATION&quot;" target="&quot;INTEGRATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The postulates of Information and Integration are related through their shared focus on the specificity and unity of the cause-effect power within the substrate of consciousness."</data>
+      <data key="d5">14270b835c0661067dae1c7b7e52ea13</data>
+    </edge>
+    <edge source="&quot;INFORMATION&quot;" target="&quot;INTEGRATED INFORMATION THEORY (IIT)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IIT's notion of information as causal, intrinsic, specific, and structured is a key component of its theoretical framework, distinguishing it from classical information theories."</data>
+      <data key="d5">a3cfbedc24d5316550172975e83f59cb</data>
+    </edge>
+    <edge source="&quot;EXCLUSION&quot;" target="&quot;COMPOSITION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Exclusion and Composition are related as both deal with the definiteness and structured nature of the cause-effect power, leading to the formation of a Phi-structure."</data>
+      <data key="d5">14270b835c0661067dae1c7b7e52ea13</data>
+    </edge>
+    <edge source="&quot;IIT FORMALISM&quot;" target="&quot;CAUSAL MODELS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IIT formalism uses causal models to illustrate hypothetical substrates' cause-effect power."</data>
+      <data key="d5">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </edge>
+    <edge source="&quot;POSTULATES OF IIT&quot;" target="&quot;CAUSE-EFFECT POWER&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The postulates of IIT define the requirements for a system to have cause-effect power."</data>
+      <data key="d5">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </edge>
+    <edge source="&quot;CAUSE-EFFECT POWER&quot;" target="&quot;INTERVENTIONAL CONDITIONAL PROBABILITIES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cause-effect power is quantified using interventional conditional probabilities according to IIT."</data>
+      <data key="d5">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </edge>
+    <edge source="&quot;CAUSE-EFFECT POWER&quot;" target="&quot;TRANSITION PROBABILITY MATRIX (TPM)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The TPM is used to analyze the cause-effect power of a system by representing state transition probabilities."</data>
+      <data key="d5">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </edge>
+    <edge source="&quot;INTRINSICALITY POSTULATE&quot;" target="&quot;INFORMATION POSTULATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The intrinsicality postulate lays the foundation for the information postulate by ensuring cause-effect power is exerted within the system itself."</data>
+      <data key="d5">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </edge>
+    <edge source="&quot;INFORMATION POSTULATE&quot;" target="&quot;MAXIMAL CAUSE-EFFECT STATE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The information postulate requires a system to select a maximal cause-effect state, where intrinsic information is maximal."</data>
+      <data key="d5">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </edge>
+    <edge source="&quot;MAXIMAL CAUSE-EFFECT STATE&quot;" target="&quot;INTRINSIC INFORMATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The maximal cause-effect state is determined by the level of intrinsic information, which measures the system's specific cause-effect power."</data>
+      <data key="d5">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </edge>
+    <edge source="&quot;IDENTIFYING SUBSTRATES OF CONSCIOUSNESS&quot;" target="&quot;INTEGRATED INFORMATION&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The process of identifying substrates of consciousness involves evaluating the integrated information of a system, as per the postulates of IIT."</data>
+      <data key="d5">b620b3c7b3684d091b3cfaf9118d85af</data>
+    </edge>
+    <edge source="&quot;SPECIALIZED LATTICES&quot;" target="&quot;\(\PHI\)-STRUCTURES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Specialized lattices are capable of forming complex \(\Phi\)-structures, indicating a direct relationship between the network configuration and its integrated information capabilities."</data>
+      <data key="d5">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </edge>
+    <edge source="&quot;\(\PHI\)-STRUCTURES&quot;" target="&quot;SYSTEM INTEGRATED INFORMATION (\(\VARPHI_{S}\))&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"\(\Phi\)-structures comprise distinctions that contribute to the system's overall integrated information, as measured by \(\varphi_{s}\)."</data>
+      <data key="d5">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </edge>
+    <edge source="&quot;CEREBRAL CORTEX&quot;" target="&quot;CONSCIOUSNESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The cerebral cortex's organization as a dense 3D lattice of specialized units is studied for its role as a substrate of human consciousness."</data>
+      <data key="d5">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </edge>
+    <edge source="&quot;CONSCIOUSNESS&quot;" target="&quot;ACTIVE, INACTIVE, AND INACTIVATED UNITS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The states of active, inactive, and inactivated units within neural substrates are crucial for understanding their contribution to consciousness and integrated information."</data>
+      <data key="d5">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </edge>
+    <edge source="&quot;MAXIMAL SUBSTRATE&quot;" target="&quot;NEAR-MAXIMAL SUBSTRATES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Maximal substrates and near-maximal substrates are related concepts in integrated information theory, with the latter being slightly less irreducible versions of the former."</data>
+      <data key="d5">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </edge>
+    <edge source="&quot;EXTRINSIC ENTITIES&quot;" target="&quot;INTRINSIC PERSPECTIVE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Extrinsic entities and the intrinsic perspective are related through the examination of how external behaviors and internal functionalities of systems align with the postulates of integrated information theory."</data>
+      <data key="d5">35b9ad87f251bfdef5d7939e51d664fb</data>
+    </edge>
+    <edge source="&quot;\(\PHI\)-FOLD&quot;" target="&quot;NEURAL SUBSTRATE OF CONSCIOUSNESS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"A \(\Phi\)-fold within the neural substrate of consciousness indicates a change in the overall \(\Phi\)-structure, correlating with a change in the structure of experience."</data>
+      <data key="d5">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </edge>
+    <edge source="&quot;\(\PHI\)-FOLD&quot;" target="&quot;INACTIVE UNIT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"An inactive unit contributes differently to a \(\Phi\)-fold compared to an inactivated unit, affecting the \(\Phi\)-structure and thus the conscious experience."</data>
+      <data key="d5">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </edge>
+    <edge source="&quot;\(\PHI\)-FOLD&quot;" target="&quot;INACTIVATED UNIT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The inactivation of a unit leads to the collapse of its compound \(\Phi\)-fold, significantly impacting the \(\Phi\)-structure and the conscious experience."</data>
+      <data key="d5">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </edge>
+    <edge source="&quot;CONSCIOUSNESS AND FUNCTIONAL EQUIVALENCE&quot;" target="&quot;DETERMINISTIC SYSTEMS WITH BINARY UNITS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"This theory is illustrated through the example of deterministic systems with binary units that, despite functional equivalence, have different internal causal structures affecting their \(\Phi\)-structures."</data>
+      <data key="d5">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </edge>
+    <edge source="&quot;DETERMINISTIC SYSTEMS WITH BINARY UNITS&quot;" target="&quot;ELECTRONIC TOLL-BOOTH EXAMPLE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The electronic toll-booth example demonstrates the concept of functional equivalence among different deterministic systems with binary units."</data>
+      <data key="d5">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </edge>
+    <edge source="&quot;DETERMINISTIC SYSTEMS WITH BINARY UNITS&quot;" target="&quot;GLOBAL STATE-TRANSITION DIAGRAM&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The global state-transition diagram is a tool used to understand and compare the internal dynamics of functionally equivalent deterministic systems with binary units."</data>
+      <data key="d5">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </edge>
+    <edge source="&quot;CAUSE-EFFECT STRUCTURES&quot;" target="&quot;\(\PHI\)-STRUCTURE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Cause-effect structures specified by a system contribute to its \(\Phi\)-structure, determining the complexity and richness of the conscious experience it can support."</data>
+      <data key="d5">9ac96ca7b115a80886c5646b5b705bb0</data>
+    </edge>
+    <edge source="&quot;\(\PHI\)-STRUCTURE&quot;" target="&quot;SPATIAL EXPERIENCES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The structure of \(\Phi\) within IIT is used to explain the quality of spatial experiences in conscious states."</data>
+      <data key="d5">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </edge>
+    <edge source="&quot;UNCONSCIOUS STATES&quot;" target="&quot;INTEGRATED INFORMATION THEORY (IIT)&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IIT suggests that unconscious states are characterized by low \(\Phi\), reflecting minimal integrated information."</data>
+      <data key="d5">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </edge>
+    <edge source="&quot;SPATIAL EXPERIENCES&quot;" target="&quot;2D GRIDS OF UNITS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The organization of units in 2D grids is proposed by IIT to account for the fundamental properties of spatial experiences."</data>
+      <data key="d5">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </edge>
+    <edge source="&quot;2D GRIDS OF UNITS&quot;" target="&quot;POSTERIOR CORTEX&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"IIT implicates the posterior cortex in the experience of space, based on its similarity to 2D grids of units."</data>
+      <data key="d5">4b031fd746dcfaa41991dd6b26a55fad</data>
+    </edge>
+    <edge source="&quot;INTEGRATED INFORMATION THEORY (IIT)&quot;" target="&quot;EMPIRICAL INVESTIGATIONS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The validity and accuracy of IIT are subject to the outcomes of empirical investigations that assess its predictions about consciousness."</data>
+      <data key="d5">a3cfbedc24d5316550172975e83f59cb</data>
+    </edge>
+    <edge source="&quot;INTRINSIC ONTOLOGY&quot;" target="&quot;CAUSAL POWERS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Intrinsic ontology uses the concept of causal powers to explain subjective existence and aims for a unified view of nature."</data>
+      <data key="d5">a3cfbedc24d5316550172975e83f59cb</data>
+    </edge>
+    <edge source="&quot;CAUSAL POWERS&quot;" target="&quot;ACTUAL CAUSES AND EFFECTS&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The evaluation of actual causes and effects is based on the application of postulates that define causal powers within the framework of intrinsic ontology."</data>
+      <data key="d5">a3cfbedc24d5316550172975e83f59cb</data>
+    </edge>
+  </graph>
+</graphml>
